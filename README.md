@@ -17,3 +17,4 @@ Currently, two official plugins are available:
 # launching-soon
 # hhhhh
 # COW
+# COW
